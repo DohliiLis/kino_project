@@ -1,0 +1,13 @@
+﻿service,content_type,watchlist,watched_status,episode_progress,user_rating,notes_reviews,shared_editing,random_pick
+Letterboxd,movies,1,1,0,1,1,,1
+Trakt,movies_and_series,1,1,1,1,1,1,
+SIMKL,movies_and_series,1,1,1,1,1,1,1
+Serializd,series,1,1,1,1,1,,
+SeriesGuide,movies_and_series,1,1,1,1,1,,
+Showly,movies_and_series,1,1,1,1,,,1
+Moviebase,movies_and_series,1,1,1,1,1,,
+Sofa Time,movies_and_series,1,1,1,1,1,,
+TV Forecast,movies_and_series,1,1,1,,,,
+Muvy,movies_and_series,1,1,1,1,1,,
+Showvie,movies_and_series,1,1,1,1,1,1,
+WatchList,movies_and_series,1,1,,1,1,1,
